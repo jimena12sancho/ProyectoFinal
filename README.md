@@ -6,7 +6,7 @@
 - 
 
 # Información.
-En este repositorio se encuentran los codigos hechos para el proyecto, asi como el trabajo escrito.
+En este repositorio se encuentran los codigos hechos para el proyecto, asi como el trabajo escrito. Para poder correr codigo hay que subir todos los archivos, menos el pdf.
 > 
 
 ## Estructura de los directorios y más información.
